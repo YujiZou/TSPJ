@@ -1,3 +1,3 @@
 # TSPJ
 
-The TPSJ instances are available at [https://github.com/TSPJLIB](https://github.com/TSPJLIB)
+This page contains the code of BLS as well as as well as the four re-implemented reference algorithms and the instances of TSPJ
